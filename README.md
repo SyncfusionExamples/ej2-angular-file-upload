@@ -7,13 +7,13 @@ A quick start project that helps you to create the Syncfusion Angular 7 Uploader
 This is a Angular 7 project generated using [Angular CLI](https://github.com/angular/angular-cli) version 7.0.4.
 
 ## How to run this application?
-To run this application, you need to first clone the `ej2-angular-7-uploader` repository and then navigate to its appropriate path where it has been located in your system.
+To run this application, you need to first clone the `ej2-angular-7-file-upload` repository and then navigate to its appropriate path where it has been located in your system.
 
 To do so, open the command prompt and run the below commands one after the other.
 
 ```
-git clone https://github.com/SyncfusionExamples/ej2-angular-7-uploader ej2-angular-7-uploader
-cd ej2-angular-7-uploader
+git clone https://github.com/SyncfusionExamples/ej2-angular-7-file-upload ej2-angular-7-uploader
+cd ej2-angular-7-file-upload
 ```
 
 ## Installing
